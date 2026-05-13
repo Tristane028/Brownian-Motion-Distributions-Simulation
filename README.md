@@ -12,21 +12,21 @@ This project examines the distributions of Brownian motion and continuous-time s
 
 ## Contents
 
-- Numerical investigation of the distribution of peaks in fractional Brownian motion on $[0,1]$ for varying Hurst parameter $H$
-- Derivation of the conditional distribution of standard Brownian motion given $W(0)=0$ and $W(1)=x_1$, known as the **Brownian Bridge**
-- Derivation of the conditional distribution of the Ornstein-Uhlenbeck process given $X(0)=x_0$ and $X(1)=x_1$, known as the **Ornstein-Uhlenbeck Bridge**
+- Numerical investigation of the distribution of peaks in fractional Brownian motion on [0,1] for varying Hurst parameter H
+- Derivation of the conditional distribution of standard Brownian motion given W(0)=0 and W(1)=x1, known as the **Brownian Bridge**
+- Derivation of the conditional distribution of the Ornstein-Uhlenbeck process given X(0)=x0 and X(1)=x1, known as the **Ornstein-Uhlenbeck Bridge**
 
 ## Key Results
 
-- For $H < 0.5$, the fractional Brownian motion is negatively correlated — the process is more likely to reverse direction, resulting in smaller overall maxima and a more spread out distribution.
-- For $H = 0.5$, the process reduces to standard Brownian motion with no correlation between increments.
-- For $H > 0.5$, the process is positively correlated — the process tends to follow its current trend, resulting in much larger maxima and a more concentrated distribution.
-- The conditional distribution of $W(t)$ given $W(1) = x_1$ is a Gaussian process with mean $tx_1$ and covariance $\min(s,t) - st$, which is the standard Brownian Bridge.
-- The conditional distribution of the Ornstein-Uhlenbeck process given both endpoints is Gaussian and mean-reverting between $x_0$ and $x_1$, known as the Ornstein-Uhlenbeck Bridge.
+- For H < 0.5, the fractional Brownian motion is negatively correlated — the process is more likely to reverse direction, resulting in smaller overall maxima and a more spread out distribution.
+- For H = 0.5, the process reduces to standard Brownian motion with no correlation between increments.
+- For H > 0.5, the process is positively correlated — the process tends to follow its current trend, resulting in much larger maxima and a more concentrated distribution.
+- The conditional distribution of W(t) given W(1) = x1 is a Gaussian process with mean tx1 and covariance min(s,t) - st, which is the standard Brownian Bridge.
+- The conditional distribution of the Ornstein-Uhlenbeck process given both endpoints is Gaussian and mean-reverting between x0 and x1, known as the Ornstein-Uhlenbeck Bridge.
 
 ## Background
 
-Brownian motion was first observed by Robert Brown in 1827 and later given a rigorous mathematical foundation by Einstein and Wiener. Fractional Brownian motion extends the standard model by introducing dependent increments controlled by the Hurst parameter, first studied in the context of neural networks and stochastic processes. The Ornstein-Uhlenbeck process is a mean-reverting Gaussian process commonly used to model physical and financial systems.
+Brownian motion was first observed by Robert Brown in 1827 and later given a rigorous mathematical foundation by Einstein and Wiener. Fractional Brownian motion extends the standard model by introducing dependent increments controlled by the Hurst parameter. The Ornstein-Uhlenbeck process is a mean-reverting Gaussian process commonly used to model physical and financial systems.
 
 ## References
 
