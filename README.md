@@ -4,6 +4,8 @@
 **Institution:** University of California, San Diego
 **Year:** 2025
 
+📄 [View Paper](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Tristane028/Brownian-Motion-Distributions-Simulation/main/Distributions_of_Brownian_Motion_and_Continuous_Time_Stochastic_Processes.pdf)
+
 ## Overview
 
 This project examines the distributions of Brownian motion and continuous-time stochastic processes. We investigate the distribution of peaks in fractional Brownian motion and derive the conditional distributions of standard Brownian motion and the Ornstein-Uhlenbeck process. The goal of these experiments was to see how the Hurst parameter affects the distribution of the maximum and how conditioning on boundary values changes the behavior of these processes.
