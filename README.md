@@ -1,6 +1,6 @@
 # Distributions of Brownian Motion & Continuous-Time Stochastic Processes
 
-**Authors:** Tristan Toshiharu Endo, Professor Robert Jacobs Webber
+**Authors:** Tristan Endo, Professor Robert Webber
 **Institution:** University of California, San Diego
 **Year:** 2025
 
