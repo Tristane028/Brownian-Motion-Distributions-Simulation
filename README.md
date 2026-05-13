@@ -1,8 +1,8 @@
 # Distributions of Brownian Motion & Continuous-Time Stochastic Processes
 
-**Authors:** Tristan Endo, Professor Robert Webber
-**Institution:** University of California, San Diego
-**Year:** 2025
+**Authors:** Tristan Endo, Professor Robert Webber\n
+**Institution:** University of California, San Diego\n
+**Year:** 2025\n
 
 📄 [View Paper](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Tristane028/Brownian-Motion-Distributions-Simulation/main/Distributions_of_Brownian_Motion_and_Continuous_Time_Stochastic_Processes.pdf)
 
